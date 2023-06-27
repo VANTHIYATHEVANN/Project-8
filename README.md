@@ -13,20 +13,25 @@ PROJECT DESCRIPTION: The project is a static web application designed to provide
 7. Security and Privacy: Strong emphasis should be placed on ensuring the security and privacy of user data. The static web app should implement appropriate security measures, such as encryption and secure data storage, to protect user information and maintain confidentiality.
 Overall, this static web application with a health bot serves as a valuable resource for users seeking accurate and reliable health information. It offers an interactive and user-friendly platform where individuals can obtain guidance, clarification, and support regarding various health topics, promoting informed decision-making and improved overall health and well-being.
 PRIMARY AZURE TECHNOLOGIES: AZURE HEALTH BOT,STATIC WEB APPS
+
 SCREENSHOTS OF PROJECT DEMO:
+
 INTERACTION WITH HEALTH BOT:
-![Uploading Screenshot (567).png…]()
-![Uploading Screenshot (568).png…]()
-![Screenshot (569)]
-![Uploading Screenshot (570).png…]()
-![Uploading Screenshot (564).png…]()
-![Uploading Screenshot (565).png…]()
-![Uploading Screenshot (566).png…]()
+[Screenshot (564)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/3e2bac30-d38b-47d9-8176-c01dbe26af9c)
+![Screenshot (563)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/8f67f9f1-1da5-4e3e-9727-74bee2d900d3)
+![Screenshot (565)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/55de8318-ebee-4d82-8604-fc4a20ae7f86)
+![Screenshot (566)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/a160ce9f-c4f3-4fba-a671-c1dd36d501d2)
+![Screenshot (567)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/8e3c26f7-55da-4caa-a342-15840a940392)
+![Screenshot (568)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/f32e03bc-213f-47c8-8245-17a1793f80f0)
+![Screenshot (569)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/df6cf8d2-8a97-4cc8-a094-852876933e67)
+![Screenshot (570)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/24f2bc4d-1d25-4a96-9063-6fe03546db52)
 STATIC WEB APP:
-![Uploading Screenshot (573).png…]()
-![Uploading Screenshot (574).png…]()
-![Screenshot (575)]
-![Uploading Screenshot (576).png…]()
-![Uploading Screenshot (571).png…]()
-![Uploading Screenshot (572).png…]()
-FINALLY I WOULD LIKE TO THANK EACH AND EVERY ONE FOR PROVIDING ME WITH THIS OPPORTUNITY.
+![Screenshot (571)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/25597035-aa1b-42ac-93fe-4b0eda8a6584)
+![Screenshot (572)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/dcd0023d-c614-4b65-a912-f81149310b88)
+![Screenshot (573)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/eaba33e2-7361-4fb7-a5cf-4425af00e504)
+![Screenshot (574)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/96ace590-82e8-4f4a-80cd-d22cd8da60d9)
+![Screenshot (575)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/92e54a66-411c-4a62-9dbc-f541618fdfb6)
+![Screenshot (576)](https://github.com/VANTHIYATHEVANN/Project-8/assets/127487291/abae4c27-a920-41ac-b731-fac30dcb9dce)
+
+
+FINALLY I WOULD LIKE TO THANK EACH AND EVERY ONE FOR PROVIDING ME WITH THIS OPPORTUNITY...
